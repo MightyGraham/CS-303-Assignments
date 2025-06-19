@@ -2,10 +2,10 @@
 
 It has been a while since I last used GitHub so hopefully I am doing this correct
 
-There are 2 source files (.cpp) and 1 header file (.h) that are needed in order for this code to work, and the text file obviously.
-and the code just runs itself
+There are 2 source files (.cpp) and 1 header file (.h) that are needed in order for this code to work, and the text file. (or you can download the entire folder)
+and the code just runs itself 
 
-I did use chatgpt for the A1input.cpp file as I had struggled a bit figuring out how to code each of those functions
+I will admit that I did use chatgpt for the A1input.cpp file as I struggled a bit figuring out how to code each of those functions
 
 
 Here are the screenshots of the outputs
