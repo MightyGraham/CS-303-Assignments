@@ -2,11 +2,13 @@
 
 It has been a while since I last used GitHub so hopefully I am doing this correct
 
-There are 2 source files (.cpp) and 1 header file (.h) that are needed in order for this code to work, and that text file obviously.
-
+There are 2 source files (.cpp) and 1 header file (.h) that are needed in order for this code to work, and the text file obviously.
 and the code just runs itself
 
-Here are some screenshots of the outputs:
+I did use chatgpt for the A1input.cpp file as I had struggled a bit figuring out how to code each of those functions
+
+
+Here are the screenshots of the outputs
 
 Final output:
 ![Screenshot 2025-06-18 191154](https://github.com/user-attachments/assets/5673fe1f-9627-4c96-b055-b5b5822b31e1)
